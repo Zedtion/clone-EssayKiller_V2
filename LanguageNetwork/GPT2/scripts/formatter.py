@@ -84,7 +84,7 @@ def coarse_formatter(text):
 	if(lens >= 10):
 		while count < lens - 5:
 			#print("para: ", para ," | final: ", lens - 8)
-			paras.append(text_list[para:para+5])
+			paras.append(text_list[count:count+5])
 			count += 5
 		# print("ÏÖÔÚÌí¼Ó¶ÎÎ²£º", text_list[para:-1])
 		if count == lens - 1:
