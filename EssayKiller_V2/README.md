@@ -27,7 +27,7 @@ EssayKiller是基于OCR、NLP领域的最新模型所构建的生成式文本创
 - [x] 基于EAST、CRNN、Bert和GPT-2语言模型的高考作文生成AI
 - [x] 支持bert tokenizer，当前版本基于clue chinese vocab
 - [x] 17亿参数多模块异构深度神经网络，超2亿条预训练数据
-- [x] 线上点击即用的文本生成效果demo：[17亿参数作文杀手](https://colab.research.google.com/github/EssayKillerBrain/EssayKiller_V2/blob/master/colab_online.ipynb)
+- [x] 线上点击即用的文本生成效果demo：[17亿参数作文杀手](https://github.com/Zedtion/clone-EssayKiller_V2/blob/main/EssayKiller_V2/colab_online.ipynb)
 - [x] 端到端生成，从试卷识别到答题卡输出一条龙服务
 
 
